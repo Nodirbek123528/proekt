@@ -872,54 +872,18 @@ li {
   padding: 63px 0px 92px 0px;
 }
 .main-10-section-left-title {
-  font-size: 36px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 600;
   line-height: 54px;
   letter-spacing: -1.8px;
 }
 .main-10-section-left-subtitle {
-  font-size: 16px;
+  font-size: 12px;
   font-style: normal;
   font-weight: 300;
   line-height: 28px;
 }
-.main-10-section-right {
-  position: relative;
-}
-.main-10-section-right-img2 {
-  position: absolute;
-  top: 35px;
-  right: 40px;
-  z-index: 2;
-}
-.main-10-section-right-img3 {
-  position: absolute;
-  bottom: 280px;
-  left: 420px;
-  z-index: 1;
-}
-.main-10-section-right-img4 {
-  position: absolute;
-  bottom: 200px;
-}
-.main-10-section-right-img5 {
-  position: absolute;
-  bottom: 0px;
-  left: 0px;
-}
-.main-10-section-right-img6 {
-  position: absolute;
-  top: 0px;
-  right: 40px;
-}
-.main-10-section-right-img7 {
-  position: absolute;
-  top: 100px;
-  left: -10px;
-  z-index: 3;
-}
-
 .footer {
   background: var(--white, #FFF);
   box-shadow: 0px -7px 80px 0px rgba(189, 189, 189, 0.25);
